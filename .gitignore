@@ -1,4 +1,4 @@
 .idea
 .env
-.test/
-.target/
+.test
+.target
