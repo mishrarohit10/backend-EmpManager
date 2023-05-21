@@ -3,7 +3,12 @@
 *.iml
 *.ipr
 
-.env
+
+*.env
+*.env.example
+*.env.local
+*.env.staging
+
 
 
 HELP.md
